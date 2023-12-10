@@ -174,11 +174,11 @@ def play_auto(player_X, player_O, rule = 1):
         turn += 1
     
 
-#play_auto('random_agent', '_MSSV')
+play_auto('random_agent', '2114831')
 #play_step_by_step('2114831', '2114831_1', rule=0)
 #play_step_by_step('2114831', 'random_agent', rule=0)
 #play_step_by_step('2114831', '_MSSV_2', rule=0)
-play_step_by_step('_MSSV_2', '2114831', rule=0)
+#play_step_by_step('_MSSV_2', '2114831', rule=0)
 #play_step_by_step('random_agent', '2114831', rule=0)
 #play_step_by_step('2114831', 'input', rule=0)
 #play_step_by_step('2110318', '2114831', rule=0)
