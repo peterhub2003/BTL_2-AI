@@ -1,0 +1,11 @@
+*.pdf
+
+Code Github
+__pycache__
+images
+player
+
+input.py
+*.zip 
+
+
